@@ -3,4 +3,6 @@ Checking if values can be achieved by applied addition and subtraction in elemen
 
 Fully commented 
 
+#### Dynamic Programming Approach
+
 ### For university assignment
