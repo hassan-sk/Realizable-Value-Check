@@ -1,6 +1,3 @@
-# Assignment 3
-# Muhammad Hassan Sheikh - 13030
-
 import numpy as np
 import random
 
